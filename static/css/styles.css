@@ -12,10 +12,10 @@ body {
 main {
   width: 80vw;
   max-width: 40em;
-  background-color: #eee;
+  background-color: red;
   padding: 1em;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  background: linear-gradient(to top right, #a7f19b, #7cbae6);
+  background: linear-gradient(to top right, #ff0000, #09ff00);
   overflow: hidden;
   border-radius: 0.5em;
   display: grid;
